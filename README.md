@@ -1,6 +1,6 @@
 # Qing Hou | Academic personal website
 
-https://qinghou1.github.io/page
+https://qinghou1.github.io/Page/
 
 A ready-to-publish personal website for an urban and regional planning job search. Built with plain HTML, CSS, and JavaScript. There is no framework, package installation, build service, account integration, or backend to configure.
 
